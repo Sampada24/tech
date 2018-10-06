@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tech</string>
+    <array name="qualifications">
+        <item>graduate</item>
+        <item>post graduate</item>
+        <item>phd</item>
+    </array>
+</resources>
