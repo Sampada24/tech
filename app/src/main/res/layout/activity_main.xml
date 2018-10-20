@@ -19,7 +19,7 @@
         <EditText
             android:id="@+id/editText2"
             android:layout_width="226dp"
-            android:layout_height="wrap_content"
+            android:layout_height="69dp"
             android:layout_centerInParent="true"
             android:background="@drawable/emai"
             android:ems="10"
@@ -73,7 +73,8 @@
             android:layout_alignParentBottom="true"
             android:layout_centerHorizontal="true"
             android:layout_marginBottom="15sp"
-            android:text="Forgot Password?" />
+            android:text="Forgot Password?"
+            android:textColor="#ffffff"/>
 
         <TextView
             android:id="@+id/textView2"
@@ -82,7 +83,8 @@
             android:layout_alignParentBottom="true"
             android:layout_centerHorizontal="true"
             android:layout_marginBottom="42sp"
-            android:text="Not Registered?" />
+            android:text="Not Registered?"
+            android:textColor="#ffffff"/>
     </LinearLayout>
 
 </RelativeLayout>
